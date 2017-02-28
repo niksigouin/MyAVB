@@ -4,16 +4,11 @@
   position: relative;
 }
 
-.navbar-bottom {
-  border-radius: 0px !important;
-  margin-bottom: 0px !important;
-  margin-top: 15px;
-  position: absolute;
-  bottom: 0px;
-  width: 100% !important;
+.footer {
+
 }
 
-h1 {
+#OfficeTop {
   margin: 0px !important;
   padding-top: 10px;
   padding-bottom: 15px;
@@ -29,7 +24,7 @@ h1 {
   );
 }
 
-h3 {
+#OfficeBtm {
   margin: 0px !important;
   padding-top: 20px;
   padding-bottom: 15px;
