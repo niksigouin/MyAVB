@@ -5,7 +5,11 @@
 }
 
 .footer {
+  font-size: 12px;
+}
 
+.footer #cr {
+  font-size: 10px;
 }
 
 #OfficeTop {
