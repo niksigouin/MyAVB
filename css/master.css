@@ -1,19 +1,28 @@
 .my-cont {
   max-width: 950px;
-  padding: 0px !important;
   position: relative;
 }
 
-.navbar-bottom {
-  border-radius: 0px !important;
-  margin-bottom: 0px !important;
-  margin-top: 15px;
-  position: absolute;
-  bottom: 0px;
-  width: 100% !important;
+.footer {
+  font-size: 10px;
 }
 
-h1 {
+.footer #cr {
+  font-size: 8px;
+}
+
+.footer a {
+  color: inherit !important;
+}
+
+.footer .my-cont {
+  margin-top: 30px;
+  padding-top: 15px !important;
+  padding-bottom: 15px !important;
+  border-top: 1px solid #eaeaea;
+}
+
+#OfficeTop {
   margin: 0px !important;
   padding-top: 10px;
   padding-bottom: 15px;
@@ -29,7 +38,7 @@ h1 {
   );
 }
 
-h3 {
+#OfficeBtm {
   margin: 0px !important;
   padding-top: 20px;
   padding-bottom: 15px;
@@ -47,5 +56,5 @@ h3 {
 
 #navbar {
   border-radius: 0px;
-  margin-bottom: 15px;
+  margin-bottom: 8px;
 }
