@@ -5,15 +5,22 @@
 }
 
 .footer {
-  font-size: 12px;
+  font-size: 10px;
 }
 
 .footer #cr {
-  font-size: 10px;
+  font-size: 8px;
 }
 
 .footer a {
   color: inherit !important;
+}
+
+.footer .my-cont {
+  margin-top: 30px;
+  padding-top: 15px !important;
+  padding-bottom: 15px !important;
+  border-top: 1px solid #eaeaea;
 }
 
 #OfficeTop {
